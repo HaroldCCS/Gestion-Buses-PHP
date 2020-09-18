@@ -1,0 +1,24 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+li:hover {
+    margin: 0px 7px;
+    transition-duration: 0.5s;
+    color: white;
+}
+
+li {
+    transition-duration: 0.8s;
+}
+
+.title {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    border-radius: 0px;
+}
